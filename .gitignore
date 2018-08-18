@@ -42,3 +42,4 @@ Servers
 .classpath
 .settings
 RemoteSystemsTempFiles
+.log
